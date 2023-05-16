@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c52933-4b0d-48a0-8ae6-6b52ecc03145" name="Changes" comment="">
+    <list default="true" id="a0c52933-4b0d-48a0-8ae6-6b52ecc03145" name="Changes" comment="Criando aplicação Java">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -26,6 +26,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="diego.rocha@edu.unipar.br" />
+        <option value="dor-95" />
+        <option value="Diego" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -84,5 +91,9 @@
       <updated>1682706248329</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando aplicação Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando aplicação Java" />
   </component>
 </project>
